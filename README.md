@@ -1,15 +1,25 @@
+<h1 align="center">Welcome to my world <img src="https://media.tenor.com/CKA21kCjN3QAAAAi/ali-yalniz-world-is-spinning.gif" width="30" height="30" alt="Ali Yalniz World Is Spinning Sticker - Ali Yalniz World Is Spinning Earth Stickers" style="max-width: 300px; background-color: unset;"</h1>
 
 <h1 align="center">Hi 👋, I'm Sanju Bhunia</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="800" height="500"></body>
+<!-- <p align ="right"><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="50%"></body></p> -->
+<img align="right" width="50%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="opening-gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjubhunia99&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubhunia99" /> </p>
+<p align="left" padding-top="50px"> <img src="https://komarev.com/ghpvc/?username=sanjubhunia99&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubhunia99" /> 
 
 - 🔭 I’m currently working on **Student**
 
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **github**
+  </p>
+  <br>
+
+
+
+
+  <br>
+  <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
