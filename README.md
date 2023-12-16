@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanju Bhunia</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <!-- <p align ="right"><body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="50%"></body></p> -->
-<img align="right" width="50%" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="opening-gif">
+<img align="right" width="50%" src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_600_2000/0/1679083748046?e=2147483647&v=beta&t=6pAfb6fO3GI0uXsLmzKqlZNtlv8FZrswVQODH-prBvY">
 
 <p align="left" padding-top="50px"> <img src="https://komarev.com/ghpvc/?username=sanjubhunia99&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubhunia99" /> 
 
