@@ -5,23 +5,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjubhunia99&label=Profile%20views&color=0e75b6&style=flat" alt="sanjubhunia99" /> </p>
 
+- 🔭 I’m currently working on **Student**
+
+- 🌱 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **github**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanju-bhunia99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanju-bhunia99" height="30" width="40" /></a>
 <a href="https://instagram.com/thesanju_bhunia99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesanju_bhunia99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdkf8hmrkr-bwzciohjnisq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdkf8hmrkr-bwzciohjnisq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanjubhunia99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjubhunia99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanjubhunia99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjubhunia99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjubhunia99&show_icons=true&locale=en&layout=compact" alt="sanjubhunia99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjubhunia99&show_icons=true&locale=en" alt="sanjubhunia99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjubhunia99&" alt="sanjubhunia99" /></p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 **I'm a Night 🦉** 
 
@@ -52,10 +51,11 @@ Sunday       53 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages:
-Java                     39 mins             ████████████████░░░░░░░░░   75.11% 
-CSS                      6 hrs 41 mins       █████████████░░░░░░░░░░░░   52.36% 
-JavaScript               2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76% 
-HTML                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+Java                     4 hrs 40 mins       ████████████████░░░░░░░░░     75.11%
+JavaScript               1 hrs 20 mins       █████████░░░░░░░░░░░░░░░░░░   19.76% 
+CSS                      2 hrs 15 mins       ███████████░░░░░░░░░░░░░░░░   52.36% 
+HTML                     2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░░░   18.81%
+React.js                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░░░   19.76%
 
 
 🔥 Editors: 
@@ -64,12 +64,14 @@ VS Code                  12 hrs 46 mins      ███████████�
 🐱‍💻 Projects: 
 quiz_app                 3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11% 
 count_down_timer         2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
-10_Projects              2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+5_Projects               2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
 cleanPotofolio_          2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
 finalPotofolio_          1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 
 💻 Operating System: 
-Windows                  12 hrs 46 mins      █████████████████████████   100.0%
+Windows                  10 hrs 46 mins      ██████████████████████░░░   80.0%
+Lunix                    2  hrs 46 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   16.0%
+
 
 ```
 
@@ -79,7 +81,8 @@ Windows                  12 hrs 46 mins      ███████████�
 Java                     3 repos             ████████████████░░░░░░░░░   75.09%
 JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
 HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15%  
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.15%
+React.js                 15 repos            ███████████░░░░░░░░░░░░░░   45.45% 
 
 
 ```
